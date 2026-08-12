@@ -126,4 +126,5 @@ I downloaded and installed **7-Zip** as part of the initial laboratory setup.
 ### 📸 Evidence
 
 **Screenshot:** 7-Zip installation
+![7-Zip Installation](screenshots/7zip%20screenshot.png)
 
