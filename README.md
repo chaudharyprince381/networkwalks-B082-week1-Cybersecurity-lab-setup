@@ -151,3 +151,35 @@ Kali Linux provides the tools and environment required for practicing cybersecur
 ### 📸 Evidence
 
 ![Kali Linux Virtual Machine](screenshots/Kali%20screenshot.png)
+![Kali Linux VM Specifications](screenshots/kali-specs.png)
+
+## 🔌 Step 5 — Configure & Verify Kali Network
+
+After starting Kali Linux, I configured and verified the network connection to ensure that the virtual machine was connected to the correct NAT Network.
+
+### 🔍 1. Check IP Configuration
+
+I used the following command:
+
+ip addr show:
+### 📸 Evidence
+
+![Kali IP Address](screenshots/kali%20ip%20address.png)
+
+### ⚙️ 2. Configure DNS
+
+I opened **Edit Connections → IPv4 Settings** and configured the DNS server as:
+8.8.8.8
+
+### 📸 Evidence
+
+![IPv4 Settings](screenshots/IPV4%20setting.png)
+
+### 🌐 3. Test Internet Connectivity
+
+I verified the Internet connectivity of the Kali virtual machine using the following command:
+ping -c 4 8.8.8.8
+
+### 📸 Evidence
+
+![Internet Connectivity](screenshots/Internet%20Connectivity.png)
