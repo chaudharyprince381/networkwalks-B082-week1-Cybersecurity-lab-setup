@@ -116,13 +116,38 @@ Gateway: `10.0.0.1`
 The first phase focused on building the basic cybersecurity laboratory environment, from installing the required software to configuring Kali Linux and preparing the virtual network.
 
 ## 📦 Step 1 — Download & Install 7-Zip
-
 I downloaded and installed **7-Zip** as part of the initial laboratory setup.
 
 ### 🎯 Purpose
-
 7-Zip was used to extract compressed files required during the Kali Linux and virtual machine setup.
 
 ### 📸 Evidence
 ![7-Zip Installation](screenshots/7zip%20screenshot.png)
 
+
+## ⚙️ Step 2 — Download & Install Oracle VirtualBox
+
+### 🎯 Purpose
+Using VirtualBox allows me to create a separate environment for cybersecurity learning and practical exercises.
+
+### 📸 Evidence
+![VirtualBox Installation](screenshots/VirtualBox.png)
+
+
+## 🌐 Step 3 — Configure the NAT Network
+
+### 🎯 Purpose
+
+The NAT Network provides a private virtual network for the lab. It allows virtual machines connected to the same network to communicate with each other while also providing Internet connectivity.
+
+### 📸 Evidence
+![NAT Network Configuration](screenshots/Nat-Network.png)
+
+## 🐉 Step 4 — Download & Import Kali Linux
+### 🎯 Purpose
+
+Kali Linux provides the tools and environment required for practicing cybersecurity, networking, penetration testing, and other authorized security exercises.
+
+### 📸 Evidence
+
+![Kali Linux Virtual Machine](screenshots/Kali%20screenshot.png)
