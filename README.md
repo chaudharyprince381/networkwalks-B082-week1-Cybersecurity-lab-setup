@@ -164,7 +164,7 @@ I used the following command:
 ip addr show:
 ### 📸 Evidence
 
-![Kali IP Address](screenshots/kali%20ip%20address.png)
+![Kali IP Address](screenshots/Kali%20ip%20address.png)
 
 ### ⚙️ 2. Configure DNS
 
