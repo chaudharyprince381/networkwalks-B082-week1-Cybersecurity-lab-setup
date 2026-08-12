@@ -267,8 +267,8 @@ Cybersecurity Student | BSc Cybersecurity
 
 This project is part of my practical cybersecurity learning journey, where I am developing hands-on skills in Linux, networking, virtualization, and penetration testing.
 
-🔗 **LinkedIn:** [Prince Chaudhary](https://www.linkedin.com/in/prince-chaudhary-307a053b6/)
-**LinkedIn:** https://www.linkedin.com/in/prince-chaudhary-307a053b6
+🔗 **LinkedIn:** https://www.linkedin.com/in/prince-chaudhary-307a053b6/
+
 
 ## 📌 Project Details
 
